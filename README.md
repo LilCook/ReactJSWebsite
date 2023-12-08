@@ -1,1 +1,1 @@
-I created this blog in order to combine two of my main interests: Cross Country (XC) Running, and coding.
+I created this website since I wanted to create a website with something other than HTML. For this project, I decided to create a sample website of a hypothetical running blog that I would like to operate.
